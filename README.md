@@ -16,22 +16,20 @@ I am a seasoned Data Engineer with 5 years of hands-on experience and a genuine 
 ## Skills and Expertise
 - **Languages:** Python, SQL
 - **Technologies:** Apache Spark, Hive, NoSQL, AWS, Azure
-- **Tools:** Jenkins, AWS, Dash, Tableau, Airflow, Streamlit, Flask
+- **Tools:** Jenkins, AWS, Dash, Tableau, Streamlit, Flask
 - **Certifications:**  
   - Tableau Fundamentals  
   - Creating Interactive Tableau Dashboards  
   - SQL (Intermediate, Basic, and Advanced Certificates)  
-- **Languages:**  
-  - English (Professional Working)  
-  - Hindi (Full Professional)  
 
 ---
 
 ## Experience
 
 ### **Louis Dreyfus Company**
-**Data Engineer**  
-November 2023 - Present | Bangalore Urban, Karnataka, India  
+**Data Engineer**
+November 2023 - Present | Bangalore Urban, Karnataka, India
+Building data pipelines to enable remote-sensing capibility to capture weather data. 
 
 ### **Carelon Global Solutions**
 **Senior Software Engineer**  
