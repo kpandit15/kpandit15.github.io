@@ -9,7 +9,7 @@
 ---
 
 ## Summary
-I am a seasoned Data Engineer with 5 years of hands-on experience and a genuine passion for exploring and manipulating data. My expertise lies in Big Data technologies, including Apache Spark, Hive, SQL, NoSQL, AWS, and Azure services. I specialize in constructing robust, scalable end-to-end data pipelines that cater to various business needs, ensuring that analytics and data science teams receive well-prepared data. Additionally, I actively contribute to data warehousing strategies, employing dimensional modeling techniques to streamline processes.
+I am a seasoned Data Engineer with 6+ years of hands-on experience and a genuine passion for exploring and manipulating data. My expertise lies in Big Data technologies, including Apache Spark, Hive, SQL, NoSQL, AWS, and Azure services. I specialize in constructing robust, scalable end-to-end data pipelines that cater to various business needs, ensuring that analytics and data science teams receive well-prepared data. Additionally, I actively contribute to data warehousing strategies, employing dimensional modeling techniques to streamline processes.
 
 ---
 
